@@ -1,6 +1,6 @@
 a=int(input("Enter the starting Range: "))
 b=int(input("Enter the Ending Range: "))
-print("\033[1m"+"range is"+"\033[0m","(",a,",",b,")")
+print(+"range is"+(",a,",",b,")")
 c1=0 #count for prime numbers
 c2=0 #count for composite numbers
 print("Then the status of each number in the range is:")
